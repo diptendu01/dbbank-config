@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-accounts:L
+accounts:
   message: "Welcome to DBank accounts related PRODUCTION APIs "
   contactDetails:
     name: "S. Nandi - Product Owner"
